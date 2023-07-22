@@ -1,4 +1,4 @@
-![Leonardo_Diffusion_Spotify_meets_Aritificial_intelligence_in_a_3](https://github.com/PatricRc/ChatGPT-Spotify-Analyzer/assets/85771918/3e9cfd03-c540-44ac-ab5b-c1f2ddd21cec)
+![ChatGPT-Spotify-Analyzer](https://github.com/PatricRc/ChatGPT-Spotify-Analyzer/assets/85771918/3bb43c8c-bb3e-41c3-9ba9-516b35adb995)
 
 
 # ChatGPT-Spotify-Analyzer
