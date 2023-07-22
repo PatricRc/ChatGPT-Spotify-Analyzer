@@ -146,10 +146,8 @@ Please note that these API references are quite simplified. The actual Spotify a
 - Spotify Web API Reference (https://developer.spotify.com/documentation/web-api)
 - OpenAI API Reference (https://platform.openai.com/docs/api-reference/introduction/)
 
-## Screenshots
+## Project Image
 
-
-![Captura de pantalla 2023-07-22 120640](https://github.com/PatricRc/ChatGPT-Spotify-Analyzer/assets/85771918/8e9d9949-6549-41f5-ba52-cd36232f1e6c)
 ![Captura de pantalla 2023-07-22 120817](https://github.com/PatricRc/ChatGPT-Spotify-Analyzer/assets/85771918/d8796b1c-b56b-44d1-8f32-2a7193447729)
 
 
