@@ -1,3 +1,6 @@
+![Leonardo_Diffusion_Spotify_meets_Aritificial_intelligence_in_a_3](https://github.com/PatricRc/ChatGPT-Spotify-Analyzer/assets/85771918/3e9cfd03-c540-44ac-ab5b-c1f2ddd21cec)
+
+
 # ChatGPT-Spotify-Analyzer
 Enhance your Spotify experience with AI-Music-Analyzer. Dive into detailed playlist analysis using Spotify's API and OpenAI's GPT-3. Ideal for music lovers, data enthusiasts, and tech explorers!
 
@@ -143,11 +146,20 @@ Please note that these API references are quite simplified. The actual Spotify a
 - Spotify Web API Reference (https://developer.spotify.com/documentation/web-api)
 - OpenAI API Reference (https://platform.openai.com/docs/api-reference/introduction/)
 
+## Screenshots
+
+
+![Captura de pantalla 2023-07-22 120640](https://github.com/PatricRc/ChatGPT-Spotify-Analyzer/assets/85771918/8e9d9949-6549-41f5-ba52-cd36232f1e6c)
+![Captura de pantalla 2023-07-22 120817](https://github.com/PatricRc/ChatGPT-Spotify-Analyzer/assets/85771918/d8796b1c-b56b-44d1-8f32-2a7193447729)
+
+
+
 ## Badges
 
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
 [![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
+
 
 
